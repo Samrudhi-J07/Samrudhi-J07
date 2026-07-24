@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Samrudhi-J07&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Samrudhi Jadhav</h1>
 
 <h3 align="center">
