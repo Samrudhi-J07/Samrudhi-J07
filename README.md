@@ -84,25 +84,40 @@
 
 ---
 
-# 🌐 Connect with Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/samrudhi-jadhav-87962b3a2/">
+<a href="https://www.linkedin.com/in/samrudhi-jadhav-87962b3a2/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/samrudhi1016">
+<a href="https://www.kaggle.com/samrudhi1016" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Samrudhi-J07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://samrudhi-j07.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Samrudhi-J07" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:samrudhi.jadhav071023@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
+## 📫 Reach Me
+
+- 📧 **Email:** samrudhi.jadhav071023@gmail.com
+- 🌐 **Portfolio:** https://samrudhi-j07.github.io/portfolio/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samrudhi-jadhav-87962b3a2/
+- 📊 **Kaggle:** https://www.kaggle.com/samrudhi1016
 
 # 🚀 Featured Projects
 
