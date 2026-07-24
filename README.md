@@ -39,3 +39,70 @@
 
 </p>
 
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,html,css,js,react,flask,django,tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Samrudhi-J07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samrudhi-J07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Samrudhi-J07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/samrudhi-jadhav-87962b3a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/samrudhi1016">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Samrudhi-J07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚖 Uber Ride Analysis Dashboard | Power BI dashboard with ride trends and KPIs |
+| 🛒 Blinkit Sales Dashboard | Business intelligence dashboard using Power BI |
+| 🎬 Movie Recommendation System | NLP-based recommendation engine |
+| 🍺 Alcohol Detection Smart Vehicle | Python safety automation project |
+| 🧠 Brain Tumor Detection | CNN & Deep Learning project |
+| 🤖 AI Health Assistant *(Coming Soon)* | RAG + LLM + Document Retrieval |
+
+---
+
+> **"Turning data into meaningful insights, one project at a time." 🚀**
+>
+> 
