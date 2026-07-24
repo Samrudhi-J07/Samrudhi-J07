@@ -17,3 +17,25 @@
 - 💻 Skilled in Python, SQL, Power BI & Excel
 - 🚀 Currently building AI & Data Analytics Projects
 - 🌱 Learning Advanced Machine Learning & NLP
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Samrudhi-J07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhi-J07&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Samrudhi-J07&theme=tokyonight"/>
+
+</p>
+
