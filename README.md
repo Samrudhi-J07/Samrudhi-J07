@@ -63,6 +63,10 @@ I'm exploring AWS Cloud technologies and connecting with the developer community
 🔗 **[Visit my AWS Builder Center Profile](https://builder.aws.com/community/@samrudh1)**
 
 
+<a href="https://builder.aws.com/community/@samrudh1">
+  <img src="https://img.shields.io/badge/AWS-Builder%20Center-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
 
 # 💻 Tech Stack
 
